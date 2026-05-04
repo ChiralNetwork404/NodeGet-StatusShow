@@ -6,7 +6,7 @@
     {
       "name": "master server node 1",
       "backend_url": "wss://api.ninten.de",
-      "token": "c8cVRTs7QZ3TNHci"
+      "token": "root:c8cVRTs7QZ3TNHci"
     }
   ]
 }
